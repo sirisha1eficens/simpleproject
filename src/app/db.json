@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "01",
+      "name": "sirisha",
+      "email": "sirishap@eficensit.com"
+    },
+    {
+      "id": "02",
+      "name": "keerthi",
+      "email": "keerthi@eficensit.com"
+    },
+    {
+      "id": "03",
+      "name": "vijaya",
+      "email": "vijaya@eficensit.com"
+    },
+    {
+      "name": "archana",
+      "email": "archana@eficensit.com",
+      "id": "pAFuLVS"
+    },
+    {
+      "name": "tejasiwni",
+      "email": "teja@eficensit.com",
+      "id": "cvSoWbW"
+    },
+    {
+      "name": "asha",
+      "email": "asha@eficensit.com",
+      "id": "haJj_en"
+    }
+  ],
+  "signupUsers": {
+    "fullname": "sirisha",
+    "email": "sirisha@eficensit.com",
+    "password": "123456",
+    "mobile": "9000713456"
+  }
+}
